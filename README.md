@@ -1,5 +1,6 @@
 # A Coupled Tensor Double-Factor Method for Hyperspectral and Multispectral Image Fusion
 Ting Xu, Ting-Zhu Huang*, Liang-Jian Deng*, Jin-Liang Xiao, Clifford Broni-Bediako, Junshi Xia, Naoto Yokoya
+
 IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
 **Homepage:**  https://tingxu113.github.io/
@@ -13,7 +14,7 @@ Please adjust K at [3,20]
 Please adjust r1 at [2,9]
 Please adjust r2 at [4,8]
 Please adjust rho at [1e-8,1e-4]
-# Please adjust the following parameters for better results
+Please adjust the above parameters for better results
  
 # Citation
 ```bibtex
