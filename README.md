@@ -9,7 +9,15 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024.
 - Directly run: ``demo_Pavia.m`` 
 
 # Parameters
-'K'
+-**K:** iteration number
+-**r1, r2:** TDF-rank
+-**rho:** penalty parameter
+  | Parameters | Meaning | Adjustment scope |
+  | :-----:| :----: | :----: |
+  | **K** | Iteration number | [3,20] |
+  | **r1, r2** | TDF-rank | [2,9],[4,8] |
+  | **rho** | Penalty parameter | [1e-8,1e-4] |
+
 Please adjust K at [3,20]
 Please adjust r1 at [2,9]
 Please adjust r2 at [4,8]
