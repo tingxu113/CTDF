@@ -17,7 +17,7 @@
   | :-----:| :----: | :----: |
   | **K** | Iteration number | [3,20] |
   | **r1, r2** | TDF-rank | [2,9],[4,8] |
-  | **rho** | Penalty parameter | [1e-8,1e-4] |
+  | **rho** | Parameter of the proximal term | [1e-8,1e-4] |
 
 
 **Please adjust the above parameters for better results**
