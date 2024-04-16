@@ -3,7 +3,7 @@
 
 IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
-**Homepage:**  https://tingxu113.github.io/
+**My Homepage:**  https://tingxu113.github.io/
 
 ![TDF degradation model from the HR-HSI to both MSI and HSI.](https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/CTDF.png)
 
