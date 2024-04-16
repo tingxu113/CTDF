@@ -1,5 +1,5 @@
 # A Coupled Tensor Double-Factor Method for Hyperspectral and Multispectral Image Fusion
-Ting Xu, Ting-Zhu Huang*, Liang-Jian Deng*, Jin-Liang Xiao, Clifford Broni-Bediako, Junshi Xia, Naoto Yokoya
+[Ting Xu](https://tingxu113.github.io/), Ting-Zhu Huang*, [Liang-Jian Deng](https://liangjiandeng.github.io/)*, Jin-Liang Xiao, Clifford Broni-Bediako, Junshi Xia, Naoto Yokoya
 
 IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
