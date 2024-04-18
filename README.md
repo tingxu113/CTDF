@@ -9,7 +9,7 @@
 ![TDF degradation model from the HR-HSI to both MSI and HSI.](https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/CTDF.png)
 
 # How to use?
-- Directly run: ``demo_Pavia.m`` 
+- Directly run: ``Demo.m`` 
 
 # Parameters
 
